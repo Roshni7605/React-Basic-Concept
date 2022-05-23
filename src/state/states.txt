@@ -1,0 +1,5 @@
+What is state?
+1. state is an internal object of a class, and its private, so you cannot use this 
+   outside the class.
+2. it acts an a variable, its mutable means we can update it.
+

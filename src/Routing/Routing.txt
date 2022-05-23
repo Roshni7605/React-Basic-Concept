@@ -1,0 +1,14 @@
+
+Routing :
+
+1. Routing is a process in which a user is directed to different pages based on their 
+   action or request. 
+2. ReactJS Router is mainly used for developing Single Page Web Applications (SPA). 
+3. React Router is used to define multiple routes in the application.
+
+"react-router-dom": "^6.0.2",
+
+npm i react-router-dom
+
+In App.js
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'; 
